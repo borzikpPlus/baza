@@ -46,6 +46,7 @@ public:
 
     void Init();
 
+
 };
 
 
@@ -175,6 +176,8 @@ int main()
     cout << endl;
     a1.Print();
 
+    int a;
 
     return 0;
 }
+
